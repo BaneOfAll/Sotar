@@ -10,12 +10,12 @@ exports.info = {
 // information regarding the bot's login information
 // it can be left blank
 exports.bot = {
-    name: "Sotar2",
-    pass: "12349",
+    name: "Sotar",
+    pass: "",
 };
 
 // this is the command character used in PMs and public rooms that do not specify what command character they want
-const defaultCharacter = exports.defaultCharacter = "";
+const defaultCharacter = exports.defaultCharacter = ".";
 
 // minimum rank for using a command unless specified.
 exports.defaultRank = "+";
