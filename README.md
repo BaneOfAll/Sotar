@@ -1,4 +1,4 @@
-# Cerberus-E 
+# Sotar
 A new Bot for Pokemon Showdown side server
 
 Set-up
@@ -9,8 +9,17 @@ You will be given admin privileges on the bot that way.
 
 License
 -------
-Cerberus-E is distributed under the terms of the [MIT License][1].
+Sotar is distributed under the terms of the [MIT License][1].
 
-  [1]: https://github.com/PowerHitter0418/Cerberus-E/blob/master/LICENSE
+  [1]: https://github.com/BaneOfAll/Sotar/blob/master/LICENSE
 
-[![Dependency Status](https://david-dm.org/PowerHitter0418/Cerberus-E.svg)](https://david-dm.org/PowerHitter0418/Cerbeus-E)
+[![Dependency Status](https://david-dm.org/BaneOfAll/Sotar.svg)](https://david-dm.org/BaneOfAll/Sotar)
+
+# Credits
+-------
+
+@ [PowerHitter0418][2] - Base repository
+@ [BaneOfAll][3] - Owner
+
+[2]: https://github.com/PowerHitter0418
+[3]: https://github.com/BaneOfAll
